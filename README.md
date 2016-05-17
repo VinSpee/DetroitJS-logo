@@ -1,2 +1,4 @@
 # DetroitJS-logo
-DetroitJS logo that I created.
+
+Yay!!! This is the logo I created for DetroitJS. Thanks to the [Logo.js](https://github.com/voodootikigod/logo.js) created by Chris Williams.
+
